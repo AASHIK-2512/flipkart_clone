@@ -158,6 +158,11 @@ nav ul li a:hover{
 .card-item img{
     border-radius: 8px;
 }
+
+.card-item img:hover{
+    transform: scale(1.03);
+}
+
 .lines{
     text-align: center;
 }
