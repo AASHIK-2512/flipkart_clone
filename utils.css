@@ -1,0 +1,9 @@
+.flex-all-center{
+    display: flex;    
+    justify-content: center;
+}
+
+h2{
+    text-transform: capitalize;
+    
+}
